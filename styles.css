@@ -7,7 +7,7 @@ body {
 
 h1 {
     text-align: center;
-    margin-top: 0;
+    margin-top: 40px;
     margin-bottom: 5px; /* Reduced bottom margin to be closer to h2 */
     font-size: 2.2rem; /* Base font size */
     line-height: 1.2;
@@ -34,10 +34,10 @@ h2 {
     position: fixed;
     top: 10px;
     left: 0;
-    width: calc(100% - 40px);
+    width: calc(100% - 80px);
     padding: 15px 20px;
-    margin: 0;
-    font-size: 20px;
+    margin: 20px;
+    font-size: 28px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); /* Enhanced shadow */
     z-index: 100;
     background-color: #fff;
@@ -57,11 +57,20 @@ h2 {
     margin-top: 30px; /* Additional space between search and list */
 }
 
+#music-list strong {
+  font-size: 1.2rem; /* Slightly smaller font size for artist names */
+}
+
 #music-list li {
     background-color: #fff;
-    margin-bottom: 15px; /* Increased spacing between list items */
+    margin-bottom: 15px; 
     padding: 15px; /* More padding inside list items */
     list-style-type: none; /* Remove default list bullets */
+}
+
+#music-list ul li {
+  margin-bottom: 0;
+  padding: 10px;
 }
 
 /* Media queries for responsive design */
