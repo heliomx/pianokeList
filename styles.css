@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 85px 20px 20px; /* Increased top padding for more space below fixed search */
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px; /* Reduced bottom margin to be closer to h2 */
+    font-size: 2.2rem; /* Base font size */
+    line-height: 1.2;
+    overflow-wrap: break-word; /* Ensure text wraps properly */
+    word-break: break-word; /* Better handling of long words */
+    padding: 0 10px; /* Add some padding on sides */
+    color: #333; /* Adding consistent color */
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-size: 1.6rem;
+    line-height: 1.2;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    padding: 0 10px;
+    color: #555; /* Slightly lighter than h1 for hierarchy */
+    font-weight: normal; /* Less bold than h1 */
+}
+
+#searchMusic {
+    position: fixed;
+    top: 10px;
+    left: 0;
+    width: calc(100% - 40px);
+    padding: 15px 20px;
+    margin: 0;
+    font-size: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); /* Enhanced shadow */
+    z-index: 100;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px; /* Rounded borders */
+    outline: none;
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+#searchMusic:focus {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow on focus */
+}
+
+#music-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 30px; /* Additional space between search and list */
+}
+
+#music-list li {
+    background-color: #fff;
+    margin-bottom: 15px; /* Increased spacing between list items */
+    padding: 15px; /* More padding inside list items */
+    list-style-type: none; /* Remove default list bullets */
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.8rem; /* Smaller font on medium screens */
+    }
+    
+    h2 {
+        font-size: 1.4rem;
+        margin-bottom: 20px;
+    }
+    
+    body {
+        padding: 75px 15px 15px; /* Slightly less padding on medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem; /* Even smaller font on small screens */
+        margin-bottom: 2px; /* Even less margin on small screens */
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+        margin-bottom: 15px;
+    }
+    
+    body {
+        padding: 65px 10px 10px; /* Less padding on small screens */
+    }
+    
+    #searchMusic {
+        padding: 12px 15px; /* Slightly smaller padding for the search input */
+        border-radius: 20px; /* Slightly less rounded on mobile */
+    }
+    
+    #music-list li {
+        padding: 12px; /* Less padding in list items on mobile */
+        margin-bottom: 10px; /* Less spacing between items */
+    }
+}

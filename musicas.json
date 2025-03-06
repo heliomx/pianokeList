@@ -1,0 +1,584 @@
+[
+  {
+    "artist": "ABBA",
+    "songs": [
+      "Dancing Queen",
+      "Mamma Mia",
+      "Waterloo"
+    ]
+  },
+  {
+    "artist": "Adele",
+    "songs": [
+      "Hello"
+    ]
+  },
+  {
+    "artist": "Alceu Valença",
+    "songs": [
+      "Anunciação",
+      "Morena Tropicana"
+    ]
+  },
+  {
+    "artist": "Anitta",
+    "songs": [
+      "Bang"
+    ]
+  },
+  {
+    "artist": "Barão Vermelho",
+    "songs": [
+      "Bete Balanço",
+      "Pro Dia Nascer Feliz"
+    ]
+  },
+  {
+    "artist": "Bee Gees",
+    "songs": [
+      "How Deep Is Your Love",
+      "Stayin' Alive"
+    ]
+  },
+  {
+    "artist": "Beth Carvalho",
+    "songs": [
+      "Coisinha do Pai"
+    ]
+  },
+  {
+    "artist": "Blitz",
+    "songs": [
+      "Você Não Soube Me Amar"
+    ]
+  },
+  {
+    "artist": "Bon Jovi",
+    "songs": [
+      "Livin' on a Prayer"
+    ]
+  },
+  {
+    "artist": "Bruno Mars",
+    "songs": [
+      "Uptown Funk"
+    ]
+  },
+  {
+    "artist": "Caetano Veloso",
+    "songs": [
+      "Alegria, Alegria",
+      "Coração Vagabundo",
+      "Leãozinho",
+      "Lua de São Jorge",
+      "Odara",
+      "Reconvexo",
+      "Sampa",
+      "Sozinho",
+      "Tigresa",
+      "Você é Linda"
+    ]
+  },
+  {
+    "artist": "Cazuza",
+    "songs": [
+      "Brasil",
+      "Exagerado",
+      "Ideologia",
+      "O Tempo Não Para"
+    ]
+  },
+  {
+    "artist": "Celine Dion",
+    "songs": [
+      "My Heart Will Go On"
+    ]
+  },
+  {
+    "artist": "Cher",
+    "songs": [
+      "Believe"
+    ]
+  },
+  {
+    "artist": "Chicago",
+    "songs": [
+      "If You Leave Me Now"
+    ]
+  },
+  {
+    "artist": "Chico Buarque",
+    "songs": [
+      "Partido Alto",
+      "Roda Viva"
+    ]
+  },
+  {
+    "artist": "Clara Nunes",
+    "songs": [
+      "O Mar Serenou"
+    ]
+  },
+  {
+    "artist": "David Bowie",
+    "songs": [
+      "Heroes",
+      "Let's Dance",
+      "Life on Mars?",
+      "Rebel Rebel",
+      "Space Oddity"
+    ]
+  },
+  {
+    "artist": "Djavan",
+    "songs": [
+      "Açaí",
+      "Eu te Devoro",
+      "Flor de Lis",
+      "Lilás",
+      "Oceano",
+      "Pétala",
+      "Samurai",
+      "Se...",
+      "Seduzir",
+      "Sina"
+    ]
+  },
+  {
+    "artist": "Duran Duran",
+    "songs": [
+      "Ordinary World"
+    ]
+  },
+  {
+    "artist": "Eagles",
+    "songs": [
+      "Hotel California"
+    ]
+  },
+  {
+    "artist": "Ed Sheeran",
+    "songs": [
+      "Shape of You"
+    ]
+  },
+  {
+    "artist": "Elba Ramalho",
+    "songs": [
+      "Banho de Cheiro"
+    ]
+  },
+  {
+    "artist": "Elis Regina",
+    "songs": [
+      "Como Nossos Pais",
+      "O Bêbado e a Equilibrista",
+      "Águas de Março"
+    ]
+  },
+  {
+    "artist": "Elton John",
+    "songs": [
+      "Candle in the Wind",
+      "Rocket Man",
+      "Sacrifice",
+      "Tiny Dancer",
+      "Your Song",
+      "Your Song"
+    ]
+  },
+  {
+    "artist": "Fagner",
+    "songs": [
+      "Borbulhas de Amor",
+      "Espumas ao Vento"
+    ]
+  },
+  {
+    "artist": "Gal Costa",
+    "songs": [
+      "Baby",
+      "Divino Maravilhoso"
+    ]
+  },
+  {
+    "artist": "Geraldo Azevedo",
+    "songs": [
+      "Taxi Lunar"
+    ]
+  },
+  {
+    "artist": "Gilberto Gil",
+    "songs": [
+      "Andar com Fé",
+      "Aquele Abraço",
+      "Drão",
+      "Esotérico",
+      "Expresso 2222",
+      "Não Chore Mais (No Woman, No Cry)",
+      "Palco",
+      "Realce",
+      "Toda Menina Baiana",
+      "Vamos Fugir"
+    ]
+  },
+  {
+    "artist": "Gonzaguinha",
+    "songs": [
+      "E Vamos à Luta",
+      "O Que é, O Que é?"
+    ]
+  },
+  {
+    "artist": "Guilherme Arantes",
+    "songs": [
+      "Cheia de Charme",
+      "Deixa Chover",
+      "Meu Mundo e Nada Mais",
+      "Planeta Água"
+    ]
+  },
+  {
+    "artist": "Ivete Sangalo",
+    "songs": [
+      "Acelera Aê (Noite do Bem)",
+      "Sorte Grande"
+    ]
+  },
+  {
+    "artist": "Jorge Ben Jor",
+    "songs": [
+      "Chove Chuva",
+      "Mas, Que Nada!",
+      "Taj Mahal"
+    ]
+  },
+  {
+    "artist": "Kid Abelha",
+    "songs": [
+      "Fixação",
+      "Pintura Íntima"
+    ]
+  },
+  {
+    "artist": "Los Hermanos",
+    "songs": [
+      "A Flor",
+      "Anna Júlia",
+      "Cara Estranho",
+      "O Vencedor",
+      "Pierrot",
+      "Sentimental",
+      "Todo Carnaval Tem Seu Fim",
+      "Último Romance"
+    ]
+  },
+  {
+    "artist": "Luan Santana",
+    "songs": [
+      "Te Esperando"
+    ]
+  },
+  {
+    "artist": "Ludmilla",
+    "songs": [
+      "Cheguei"
+    ]
+  },
+  {
+    "artist": "Lulu Santos",
+    "songs": [
+      "Como Uma Onda",
+      "Tempos Modernos"
+    ]
+  },
+  {
+    "artist": "Madonna",
+    "songs": [
+      "Like a Prayer"
+    ]
+  },
+  {
+    "artist": "Maria Bethânia",
+    "songs": [
+      "Negue"
+    ]
+  },
+  {
+    "artist": "Marília Mendonça",
+    "songs": [
+      "Infiel"
+    ]
+  },
+  {
+    "artist": "Marina Lima",
+    "songs": [
+      "Fullgás",
+      "Nada Por Mim",
+      "À Francesa"
+    ]
+  },
+  {
+    "artist": "Marisa Monte",
+    "songs": [
+      "Ainda Bem"
+    ]
+  },
+  {
+    "artist": "MC Kevinho",
+    "songs": [
+      "Olha a Explosão"
+    ]
+  },
+  {
+    "artist": "Metallica",
+    "songs": [
+      "Enter Sandman"
+    ]
+  },
+  {
+    "artist": "Michael Jackson",
+    "songs": [
+      "Heal the World"
+    ]
+  },
+  {
+    "artist": "Milton Nascimento",
+    "songs": [
+      "Maria Maria",
+      "Travessia"
+    ]
+  },
+  {
+    "artist": "Nirvana",
+    "songs": [
+      "Smells Like Teen Spirit"
+    ]
+  },
+  {
+    "artist": "Novos Baianos",
+    "songs": [
+      "Preta Pretinha"
+    ]
+  },
+  {
+    "artist": "Os Mutantes",
+    "songs": [
+      "A Minha Menina",
+      "Ando Meio Desligado",
+      "Balada do Louco",
+      "Bat Macumba",
+      "El Justiciero",
+      "Minha Menina",
+      "Panis et Circenses",
+      "Tecnicolor",
+      "Top Top"
+    ]
+  },
+  {
+    "artist": "Pabllo Vittar",
+    "songs": [
+      "K.O."
+    ]
+  },
+  {
+    "artist": "Paralamas do Sucesso",
+    "songs": [
+      "Alagados",
+      "Lanterna dos Afogados"
+    ]
+  },
+  {
+    "artist": "Paula Fernandes",
+    "songs": [
+      "Pássaro de Fogo"
+    ]
+  },
+  {
+    "artist": "Paulinho da Viola",
+    "songs": [
+      "Foi Um Rio Que Passou Em Minha Vida"
+    ]
+  },
+  {
+    "artist": "Queen",
+    "songs": [
+      "Another One Bites the Dust",
+      "Bohemian Rhapsody",
+      "Bohemian Rhapsody",
+      "Crazy Little Thing Called Love",
+      "Don't Stop Me Now",
+      "I Want to Break Free",
+      "Radio Ga Ga",
+      "Somebody to Love",
+      "Under Pressure",
+      "We Are the Champions",
+      "We Will Rock You"
+    ]
+  },
+  {
+    "artist": "Raul Seixas",
+    "songs": [
+      "Eu Nasci Há Dez Mil Anos Atrás",
+      "Maluco Beleza",
+      "Metamorfose Ambulante"
+    ]
+  },
+  {
+    "artist": "Rita Lee",
+    "songs": [
+      "Mania de Você",
+      "Ovelha Negra"
+    ]
+  },
+  {
+    "artist": "Roberto Carlos",
+    "songs": [
+      "Detalhes",
+      "Emoções"
+    ]
+  },
+  {
+    "artist": "RPM",
+    "songs": [
+      "Olhar 43",
+      "Rádio Pirata"
+    ]
+  },
+  {
+    "artist": "Sandy & Junior",
+    "songs": [
+      "As Quatro Estações"
+    ]
+  },
+  {
+    "artist": "Secos & Molhados",
+    "songs": [
+      "Sangue Latino"
+    ]
+  },
+  {
+    "artist": "Simone & Simaria",
+    "songs": [
+      "Loka"
+    ]
+  },
+  {
+    "artist": "The Beatles",
+    "songs": [
+      "A Day in the Life",
+      "Across the Universe",
+      "All You Need Is Love",
+      "Blackbird",
+      "Come Together",
+      "Don't Let Me Down",
+      "Get Back",
+      "Here Comes the Sun",
+      "Hey Bulldog",
+      "Hey Jude",
+      "Hey Jude",
+      "I Am the Walrus",
+      "Let It Be",
+      "Lucy in the Sky with Diamonds",
+      "Octopus's Garden",
+      "Penny Lane",
+      "Revolution",
+      "Something",
+      "Strawberry Fields Forever",
+      "The Long and Winding Road",
+      "While My Guitar Gently Weeps"
+    ]
+  },
+  {
+    "artist": "The Police",
+    "songs": [
+      "Don't Stand So Close to Me",
+      "Every Breath You Take",
+      "Message in a Bottle",
+      "Roxanne",
+      "Walking on the Moon"
+    ]
+  },
+  {
+    "artist": "Thiaguinho",
+    "songs": [
+      "Ousadia e Alegria"
+    ]
+  },
+  {
+    "artist": "Tim Maia",
+    "songs": [
+      "Gostava Tanto de Você",
+      "Não Quero Dinheiro (Só Quero Amar)",
+      "Primavera"
+    ]
+  },
+  {
+    "artist": "Titãs",
+    "songs": [
+      "Bichos Escrotos",
+      "Epitáfio",
+      "Flores",
+      "Homem Primata",
+      "Marvin",
+      "O Pulso",
+      "Polícia",
+      "Pra Dizer Adeus",
+      "Sonífera Ilha",
+      "Televisão"
+    ]
+  },
+  {
+    "artist": "Tom Jobim",
+    "songs": [
+      "Garota de Ipanema"
+    ]
+  },
+  {
+    "artist": "U2",
+    "songs": [
+      "Beautiful Day",
+      "I Still Haven't Found What I'm Looking For",
+      "One",
+      "Sunday Bloody Sunday",
+      "With or Without You"
+    ]
+  },
+  {
+    "artist": "Victor & Leo",
+    "songs": [
+      "Borboletas"
+    ]
+  },
+  {
+    "artist": "Wesley Safadão",
+    "songs": [
+      "Camarote"
+    ]
+  },
+  {
+    "artist": "Whitney Houston",
+    "songs": [
+      "I Will Always Love You"
+    ]
+  },
+  {
+    "artist": "Zé Ramalho",
+    "songs": [
+      "Chão de Giz",
+      "Frevo Mulher"
+    ]
+  },
+  {
+    "artist": "Zeca Pagodinho",
+    "songs": [
+      "Deixa a Vida Me Levar"
+    ]
+  },
+  {
+    "artist": "Zezé Di Camargo & Luciano",
+    "songs": [
+      "É o Amor"
+    ]
+  }
+]
